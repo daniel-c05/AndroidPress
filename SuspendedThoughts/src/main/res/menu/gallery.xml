@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".GalleryActivity" >
+
+    <item android:id="@+id/action_download_photo"
+        android:title="@string/action_download"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>

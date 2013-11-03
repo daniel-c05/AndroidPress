@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TiempOcio</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Open Drawer</string>
+    <string name="empty_list">No posts available to display.</string>
+    <string name="empty_single">No data available to display.</string>
+    <string name="drawer_close">Close Drawer</string>
+    <string name="share_prompt">Share Article</string>
+    <string name="posted_on">Posted On: </string>
+    <string name="label_loading">Loading recent posts...</string>
+    <string name="label_loading_single_post">Loading post data..</string>
+    <string name="download_description">Saving Image..</string>
+    <string name="action_download">Save Image</string>
+
+    <!-- Menu Items -->
+
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_save_image">Save Image</string>
+
+    <!-- Nav Items -->
+
+    <string name="home">Home</string>
+    <string name="video_games">Video Games</string>
+    <string name="tourism">Tourism</string>
+    <string name="about_us">About Us</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="recommendation_of_the_month">Recommendation Of The Month</string>
+    <string name="game_review">Game Review</string>
+    <string name="retro_recommendation">Retro Videogame Recommendation</string>
+    <string name="art_books">Art Books</string>
+    <string name="soundtracks">Soundtracks</string>
+    <string name="tourist_guide">Tourist Guide</string>
+
+    <string-array name="drawer_items">
+        <item>@string/home</item>
+        <item>@string/video_games</item>
+        <item>@string/tourism</item>
+        <item>@string/about_us</item>
+        <item>@string/contact_us</item>
+    </string-array>
+    <string-array name="all_drawer_items">
+        <item>@string/home</item>
+        <item>@string/video_games</item>
+        <item>@string/tourism</item>
+        <item>@string/about_us</item>
+        <item>@string/contact_us</item>
+        <item>Recommendation Of The Month</item>
+        <item>Game Review</item>
+        <item>Retro Videogame Recommendation</item>
+        <item>Art Books</item>
+        <item>Soundtracks</item>
+        <item>Tourist Guide</item>
+    </string-array>
+    <string-array name="video_games">
+        <item>Recommendation Of The Month</item>
+        <item>Game Review</item>
+        <item>Retro Videogame Recommendation</item>
+        <item>Art Books</item>
+        <item>Soundtracks</item>
+    </string-array>
+    <string-array name="tourism">
+        <item>Tourist Guide</item>
+    </string-array>
+
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="title_activity_gallery">Post Gallery</string>
+
+</resources>

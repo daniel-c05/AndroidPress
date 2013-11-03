@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="libGoogleAnalyticsServices">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/SuspendedThoughts/libs/libGoogleAnalyticsServices" />
+      <root url="file://$PROJECT_DIR$/SuspendedThoughts/libs/libGoogleAnalyticsServices" />
+      <root url="jar://$PROJECT_DIR$/SuspendedThoughts/libs/libGoogleAnalyticsServices.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

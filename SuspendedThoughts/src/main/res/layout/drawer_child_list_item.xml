@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+            android:id="@+id/drawer_child_list_item_text"
+            android:fontFamily="sans-serif"
+            android:maxLines="1"
+            android:ellipsize="marquee"
+            android:textColor="@color/tiempocio_text_color_primary"
+            android:textSize="@dimen/text_size_medium"
+            android:padding="8dp"
+            android:gravity="center_vertical"
+            android:layout_width="match_parent"
+            android:layout_height="48dp">
+    </TextView>
+
+</LinearLayout>

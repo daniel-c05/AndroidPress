@@ -1,0 +1,17 @@
+<resources>
+    <!-- Customize dimensions originally defined in res/values/dimens.xml (such as
+         screen margins) for sw720dp devices (e.g. 10" tablets) in landscape here. -->
+    <dimen name="activity_horizontal_margin">8dp</dimen>
+    <dimen name="post_image_height">240dp</dimen>
+    <!-- body content -->
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_medium">16sp</dimen>
+    <dimen name="text_size_large">20sp</dimen>
+    <dimen name="text_size_xlarge">24sp</dimen>
+    <dimen name="text_size_diff_large_small">6sp</dimen>
+
+    <dimen name="sliding_drawer_width">320dp</dimen>
+
+    <!-- Ad Values -->
+    <dimen name="default_ad_height">64dp</dimen>
+</resources>
